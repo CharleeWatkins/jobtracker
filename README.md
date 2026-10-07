@@ -4,7 +4,7 @@ A job application tracker built with React, Vite, and JSON Server.
 It helps users keep track of their job applications, statuses, and interview information — all stored on a mock backend with secure JWT authentication.
 
 ## Live Demo
-
+https://jobtrackprjt.netlify.app/
 
 ##  Features
 
