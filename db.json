@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "email": "charlee1@gmail.com",
+      "password": "$2b$10$MosU9O63vXxyiGnLvxEkauRz/fVWQrIUeHPSVwBYjrR16lSP1pIBG",
+      "username": "char",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "email": "pertula@gmail.com",
+      "password": "$2b$10$Ba2h/LCeyrwLI.YwYV840eGGfPUyyYPBtCZ49iciUPcJcPx9Vno42",
+      "username": "pertula"
+    }
+  ],
+  "jobs": [
+    {
+      "company": "fff",
+      "role": "ff",
+      "status": "Interviewed",
+      "dateApplied": "2026-10-06",
+      "duties": "",
+      "requirements": "",
+      "address": "",
+      "contact": "",
+      "notes": "",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "company": "fkijhkhd",
+      "role": "ff",
+      "status": "Rejected",
+      "dateApplied": "2026-10-06",
+      "duties": "c",
+      "requirements": "",
+      "address": "",
+      "contact": "",
+      "notes": "",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "company": "jjn",
+      "role": "eh rhb",
+      "status": "Interviewed",
+      "dateApplied": "2026-10-06",
+      "duties": "buu hhhi",
+      "requirements": "",
+      "address": "",
+      "contact": "",
+      "notes": "",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "company": "yy",
+      "role": "yyy",
+      "status": "Applied",
+      "dateApplied": "2026-10-07",
+      "duties": "yy",
+      "requirements": "yy",
+      "address": "yy",
+      "contact": "yy",
+      "notes": "yy",
+      "userId": 1,
+      "id": 4
+    }
+  ]
+}
