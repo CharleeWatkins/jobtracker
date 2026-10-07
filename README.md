@@ -9,6 +9,10 @@ It helps users keep track of their job applications, statuses, and interview inf
 Frontend: https://jobtrackprjt.netlify.app/
 Backend: https://jobtracker-api-a75h.onrender.com
 
+## Figma Link
+https://www.figma.com/design/TdJxNYe1ZCronLg9yRHlrr/Job-Tracker?m=auto&t=Iqg88XLQOP28DqoE-6
+
+
 ##  Features
 - Register and log in with authentication
 - Add new job applications
