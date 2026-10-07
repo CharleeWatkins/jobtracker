@@ -1,33 +1,30 @@
-## Links Vault
+# Charlee's Jobtracker
 
-A simple bookmark manager built with React, Vite, and Plain CSS.
-Save, organize, search, favorite, edit, and delete your links. Data is saved in your browser using LocalStorage.
+A job application tracker built with React, Vite, and JSON Server. 
+It helps users keep track of their job applications, statuses, and interview information — all stored on a mock backend with secure JWT authentication.
 
 ## Live Demo
-https://linksvaulttask.netlify.app/
 
-## Features
-- Add links with a title, URL, description, and tags
-- View saved links in a card layout
-- Edit and delete links
-- Favorite links
-- Search links
-- Organize links with tags
-- Toast notifications
-- Dashboard statistics
-- Responsive design
-- LocalStorage data persistence
 
-## Data Storage
-Links are stored in the browser using LocalStorage, so no backend or database is required.
+##  Features
 
-## Getting Started
-Clone the repository
-git clone https://github.com/CharleeWatkins/link_vault_project.git
+- Register and log in with authentication
+- Add new job applications
+- Edit job applications
+- Delete job applications
+- Search applications by company or role
+- Filter applications by status
+- Sort applications by date
+- View full job details in a read-only "View" page
+- View interview preparation information
+- Dashboard with application statistics
+- Toast notifications for actions
+- Responsive design for desktop, tablet, and mobile
+- Collapsible sidebar (desktop toggle + mobile slide-over)
+- Color-coded application statuses
+- URL-driven search, filter, and sort
 
-## The project  is available under branch:
-feature/links-vault-task
-
+# Getting Started
 ## Install dependencies
 npm install
 
