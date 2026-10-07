@@ -6,8 +6,8 @@ It helps users keep track of their job applications, statuses, and interview inf
 ## Task 3 (Job Application Tracker)
 
 ## Live Demo
-https://jobtrackprjt.netlify.app/
-
+Frontend: https://jobtrackprjt.netlify.app/
+Backend: https://jobtracker-api-a75h.onrender.com
 
 ##  Features
 - Register and log in with authentication
@@ -31,6 +31,6 @@ https://jobtrackprjt.netlify.app/
 npm install
 
 ## Run the project
-npm run dev
-
+npm run server   # Terminal 1
+npm run dev      # Terminal 2
 
